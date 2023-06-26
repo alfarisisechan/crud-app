@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "namabarang": "Laptop",
+      "hargabeli": "4000000",
+      "hargajual": "4200000",
+      "fotobarang": "test.png",
+      "stok": "12",
+      "id": 1
+    }
+  ]
+}
